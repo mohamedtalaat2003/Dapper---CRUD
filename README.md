@@ -4,8 +4,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-Micro_ORM-blue?style=for-the-badge)
 
-## 📖 Overview
 **I learned Dapper through a project-based learning approach**.
+
+## 📖 Overview
 This is a beginner-friendly **ASP.NET Core 8.0 Web API** project designed to demonstrate how to perform **CRUD (Create, Read, Update, Delete)** operations using **Dapper**. The project focuses on managing a simple `VideoGame` entity.
 
 While Dapper is used for high-performance data querying and execution, **Entity Framework Core** is included solely to easily manage database schema creation using Migrations.
